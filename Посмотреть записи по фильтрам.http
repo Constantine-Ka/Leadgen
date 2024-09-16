@@ -1,0 +1,2 @@
+GET /buildings?name=Строение 1&year=2010&id=1&level=9&city=Москва HTTP/1.1
+Host: localhost:8080

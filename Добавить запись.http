@@ -1,0 +1,10 @@
+POST /building HTTP/1.1
+Host: localhost:8080
+Content-Type: application/json
+
+{
+  "name":"Строение 1",
+  "city": "Москва",
+  "year": 2010,
+  "level":9
+}
